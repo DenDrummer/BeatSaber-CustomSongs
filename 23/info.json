@@ -1,12 +1,7 @@
 {
-  "songName": "untitled 23",
-  "songSubName": "Den_drummer",
   "authorName": "Den_drummer",
   "beatsPerMinute": 150,
-  "previewStartTime": 12,
-  "previewDuration": 10,
   "coverImagePath": "cover.jpg",
-  "environmentName": "DefaultEnvironment",
   "difficultyLevels": [
     {
       "difficulty": "Expert",
@@ -16,5 +11,10 @@
       "offset": 0,
       "oldOffset": 0
     }
-  ]
+  ],
+  "environmentName": "NiceEnvironment",
+  "previewDuration": 10,
+  "previewStartTime": 12,
+  "songName": "untitled 23",
+  "songSubName": "Den_drummer"
 }
